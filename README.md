@@ -14,3 +14,43 @@ Line 2 : n integers (separated by space)
 
 Output Format :
 "true" or "false" (without quotes)
+
+
+## 2.cpp
+
+Given a number N, find its square root. You need to find and print only the integral part of square root of N.
+For eg. if number given is 18, answer is 4.
+
+Input format :
+Integer N
+
+Output Format :
+Square root of N (integer part only)
+
+
+## 3.cpp
+
+Write a program to print first x terms of the series 3N + 2 which are not multiples of 4.
+N varies from 1 to 1000.
+
+Input format :
+Integer x
+
+Output format :
+Terms of series (separated by space)
+
+## 4.cpp
+
+Print reverse number.Take care of constraints like presence of zeroes.
+
+Integer N
+
+Constraints:
+Time Limit: 1 second
+
+Output format :
+Corresponding reverse number
+
+## 5.cpp
+
+Convert Decimal to Binary with the help of Bitwise operators
