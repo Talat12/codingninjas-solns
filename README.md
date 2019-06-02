@@ -54,3 +54,7 @@ Corresponding reverse number
 ## 5.cpp
 
 Convert Decimal to Binary with the help of Bitwise operators
+
+## 6.cpp
+
+Dynamically allocate a 2d matrix.Jagged arrays in CPP are possible because of this.
